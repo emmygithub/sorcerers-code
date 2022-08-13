@@ -1,2 +1,2 @@
 # sorcerers-code
-Just writing a screen play from Harry Programmer and the Sorcerer's Code
+This was probably the first time I wrote anything harry porter.
